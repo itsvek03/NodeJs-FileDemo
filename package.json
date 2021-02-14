@@ -1,0 +1,19 @@
+{
+  "name": "notrus_app",
+  "version": "1.0.0",
+  "description": "Trees Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "Trees"
+  ],
+  "author": "Vivek maurya",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
